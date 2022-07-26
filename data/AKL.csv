@@ -1,0 +1,4 @@
+,rh,pod,lon,pres,timezone,ob_time,country_code,clouds,ts,solar_rad,state_code,city_name,wind_spd,wind_cdir_full,wind_cdir,slp,vis,h_angle,sunset,dni,dewpt,snow,uv,precip,wind_dir,sunrise,ghi,dhi,aqi,lat,weather,datetime,temp,station,elev_angle,app_temp
+code,89.0625,n,174.76,995.5,Pacific/Auckland,2022-07-26 07:28,NZ,85,1658820480,0,E7,Auckland,7.03616,northwest,NW,1000,16,-90,05:31,0,10.9,0,0,0.299555,316,19:23,0,0,28,-36.85,301,2022-07-26:07,12.8,C4778,-17.66,12.8
+description,89.0625,n,174.76,995.5,Pacific/Auckland,2022-07-26 07:28,NZ,85,1658820480,0,E7,Auckland,7.03616,northwest,NW,1000,16,-90,05:31,0,10.9,0,0,0.299555,316,19:23,0,0,28,-36.85,Drizzle,2022-07-26:07,12.8,C4778,-17.66,12.8
+icon,89.0625,n,174.76,995.5,Pacific/Auckland,2022-07-26 07:28,NZ,85,1658820480,0,E7,Auckland,7.03616,northwest,NW,1000,16,-90,05:31,0,10.9,0,0,0.299555,316,19:23,0,0,28,-36.85,d02n,2022-07-26:07,12.8,C4778,-17.66,12.8

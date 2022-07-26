@@ -1,0 +1,51 @@
+26-Jul-22 19:15:33 - This will get logged to a file
+26-Jul-22 19:19:52 INFO - This will get logged to a file  again
+[26-Jul-22 19:37:21 INFO etl.py:15 - main ] Starting script...
+[26-Jul-22 19:37:21 INFO etl.py:21 - get_current_weather ] Running get_current_weather()
+[26-Jul-22 19:45:24 INFO etl.py:16] main - Starting script...
+[26-Jul-22 19:45:24 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:45:24 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:45:24 INFO etl.py:22] get_current_weather - Running
+[26-Jul-22 19:45:25 INFO etl.py:31] get_current_weather - Closing
+[26-Jul-22 19:46:10 INFO etl.py:16] main - Starting script...
+[26-Jul-22 19:46:10 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:46:10 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:46:10 INFO etl.py:22] get_current_weather - Running
+[26-Jul-22 19:46:35 INFO etl.py:16] main - Starting script...
+[26-Jul-22 19:46:35 INFO etl.py:35] create_connection - Running
+[26-Jul-22 19:46:35 INFO etl.py:45] create_connection - Closing
+[26-Jul-22 19:46:35 INFO etl.py:22] get_current_weather - Running
+[26-Jul-22 19:47:17 INFO etl.py:16] main - Starting script...
+[26-Jul-22 19:47:17 INFO etl.py:35] create_connection - Running
+[26-Jul-22 19:47:17 INFO etl.py:45] create_connection - Closing
+[26-Jul-22 19:47:17 INFO etl.py:22] get_current_weather - Running
+[26-Jul-22 19:47:22 INFO etl.py:29] get_current_weather - Closing
+[26-Jul-22 19:50:12 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:50:12 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:50:12 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:50:12 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:51:12 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:51:12 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:51:12 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:51:12 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:52:33 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:52:33 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:52:33 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:52:33 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:52:43 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:52:43 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:52:43 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:52:43 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:53:08 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:53:08 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:53:08 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:53:08 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:53:21 INFO etl.py:17] main - Starting script...
+[26-Jul-22 19:53:21 INFO etl.py:34] create_connection - Running
+[26-Jul-22 19:53:21 INFO etl.py:44] create_connection - Closing
+[26-Jul-22 19:53:21 INFO etl.py:23] get_current_weather - Running
+[26-Jul-22 19:56:02 INFO etl.py:18] main - Starting script...
+[26-Jul-22 19:56:02 INFO etl.py:37] create_connection - Running
+[26-Jul-22 19:56:02 INFO etl.py:47] create_connection - Closing
+[26-Jul-22 19:56:02 INFO etl.py:26] get_current_weather - Running
+[26-Jul-22 19:56:03 INFO etl.py:34] get_current_weather - Closing
